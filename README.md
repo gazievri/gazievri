@@ -25,6 +25,6 @@ HTML / CSS / JS / React / NodeJS / Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri&layout=compact)](https://github.com/gazievri/github-readme-stats) 
 
 
-### 😀 И перед тем, как ты покинешь мой профиль, улыбнись
+### 😀 И перед тем, как перейти к проектам, улыбнись
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
