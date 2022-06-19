@@ -15,7 +15,4 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gazievri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazievr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gazievri)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gazievri&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri)](https://github.com/anuraghazra/github-readme-stats) 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gazievri&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri)](https://github.com/anuraghazra/github-readme-stats)  
