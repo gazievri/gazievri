@@ -11,10 +11,6 @@
 
 Мой стек: HTML / CSS / JS / React / NodeJS / Github 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gazievri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazievr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gazievri)  
-
 [![codewars](https://www.codewars.com/users/gazievr/badges/micro)](https://www.codewars.com/users/gazievr) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri&layout=compact)](https://github.com/gazievri/github-readme-stats)
