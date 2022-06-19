@@ -17,5 +17,5 @@
 
 [![codewars](https://www.codewars.com/users/gazievr/badges/micro)](https://www.codewars.com/users/gazievr) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gazievri&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri&layout=compact)](https://github.com/gazievri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazievri&layout=compact)](https://github.com/gazievri/github-readme-stats)
 
