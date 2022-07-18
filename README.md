@@ -4,9 +4,9 @@
 
 ## A few words about me 👨‍💻  
 
-I'm begginer frontend developer and I'm trying my best: 
-- to understand what pure code is and how it could be create;
-- to code the real project;
+I am an entry-level frontend developer and I am doing my best to: 
+- to understand what a pure code is and how it can be created;
+- to code a real project;
 - to learn new frameworks;
 - to find teammates for coding. 
     
