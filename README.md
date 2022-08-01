@@ -1,16 +1,14 @@
 <h1 align="left">Hi there 👋, my name is Ruslan!</h1>
 
-![](https://komarev.com/ghpvc/?username=gazievri)
+![](https://komarev.com/ghpvc/?username=gazievri) 
 
 ## A few words about me 👨‍💻  
 
-I am an entry-level frontend developer and I am doing my best to: 
-- to understand what a pure code is and how it can be created;
-- to code a real project;
-- to learn new frameworks;
-- to find teammates for coding. 
-    
-            
+I'm entry-level front-end developer doing his best to achieve a high level of mastership and eagers to be a part of a crew, that develops meaningful web projects.  Well-versed in HTML5, JavaScript, and CSS, and do not stop yarn new.  With strong background in project management, IT sales, and customer relations.
+
+I'm guided by awesome words of Steve Jobs ([the Stanford commencement address](https://news.stanford.edu/news/2005/june15/jobs-061505.html)):
+
+  >*Stay Hungry. Stay Foolish.*
   
 ## My technology stack 🤺  
 
