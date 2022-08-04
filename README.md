@@ -4,7 +4,7 @@
 
 ## A few words about me 👨‍💻  
 
-I'm entry-level front-end developer doing my best to achieve a high level of mastership and eager to be a part of a crew, that develops meaningful web projects.  I'm well-versed in HTML5, JavaScript, and CSS, and do not stop yarn new.  With strong background in project management, IT sales, and customer relations.
+I'm entry-level front-end developer doing my best to achieve a high level of mastership and eager to be a part of a crew, that develops meaningful web projects.  I'm well-versed in HTML5, СSS, JavaScript, and React, and do not stop yarn new.  With strong background in project management, IT sales, and customer relations.
 
 I live my life guided by the remarkable words of Steve Jobs ([the Stanford commencement address](https://news.stanford.edu/news/2005/june15/jobs-061505.html)):
 
