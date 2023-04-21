@@ -39,6 +39,6 @@ I live my life guided by the remarkable words of Steve Jobs ([the Stanford comme
 
 ## Some statistics🏆 
 
-[![codewars](https://www.codewars.com/users/gazievr/badges/micro)](https://www.codewars.com/users/gazievr)  
+[![codewars](https://www.codewars.com/users/gazievr/badges/large)](https://www.codewars.com/users/gazievr)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazievri&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazievri&theme=solarized_dark)
