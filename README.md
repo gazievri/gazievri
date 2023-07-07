@@ -9,6 +9,9 @@ I'm front-end developer doing my best to achieve a high level of mastership and 
 I live my life guided by the remarkable words of Steve Jobs ([the Stanford commencement address](https://news.stanford.edu/news/2005/june15/jobs-061505.html)):
 
   >*Stay Hungry. Stay Foolish.*
+
+No matter how old you are or what you do, always remain ambitious, curious, and determined. Experiment and challenge conventional wisdom! It’s never too late starting something great! Stay Hungry! Stay Foolish!
+
   
 ## My technology stack 🤺  
 
