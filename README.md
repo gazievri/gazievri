@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, my name is <a href="https://gaziev.site/" target="_blank">Ruslan</a>.</h1>
+<h1 align="left">Hi there 👋, my name is Ruslan!</h1>
 
 ![](https://komarev.com/ghpvc/?username=gazievri) 
 
