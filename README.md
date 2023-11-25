@@ -46,8 +46,6 @@ No matter how old you are or what you do, always remain ambitious, curious, and 
 
 
 
-
-
 ## Some statistics🏆 
 
 [![codewars](https://www.codewars.com/users/gazievr/badges/large)](https://www.codewars.com/users/gazievr)  
@@ -59,3 +57,4 @@ No matter how old you are or what you do, always remain ambitious, curious, and 
 
 <img src="https://github.com/gazievri/gazievri/assets/96244317/6c81fb9a-70fe-40b7-8ccb-d1011a1c1454" alt="Certificate of finalist 2023" width="200" height="100%">
 <img src="https://github.com/gazievri/gazievri/assets/96244317/2865064a-7a51-4e99-a7d0-45d66aeca1d1" alt="Certificate of finalist 2022" width="200" height="100%">
+<img src="https://github.com/gazievri/gazievri/assets/96244317/09eba27b-f92b-4470-ae47-9f35f7dfd875" alt="Thank you letter from Solar Circle" width="200" height="100%">
