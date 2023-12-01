@@ -46,14 +46,14 @@ No matter how old you are or what you do, always remain ambitious, curious, and 
 
 
 
-## Some statistics🏆 
+## Some statistics 🏆
 
 [![codewars](https://www.codewars.com/users/gazievr/badges/large)](https://www.codewars.com/users/gazievr)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazievri&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazievri&theme=solarized_dark)
 
 
-## Some rewards🥇
+## Some rewards 🥇
 
 <img src="https://github.com/gazievri/gazievri/assets/96244317/6c81fb9a-70fe-40b7-8ccb-d1011a1c1454" alt="Certificate of finalist 2023" width="200" height="100%">
 <img src="https://github.com/gazievri/gazievri/assets/96244317/2865064a-7a51-4e99-a7d0-45d66aeca1d1" alt="Certificate of finalist 2022" width="200" height="100%">
