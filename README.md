@@ -14,7 +14,7 @@ No matter how old you are or what you do, always remain ambitious, curious, and 
 
 ## Volunteer activities 🙏
 
-An essential part of my life is volunteering because I believe it's crucial not only to take but also to give back. That's why I became an IT volunteer, actively participating as a frontend developer in projects that aim to help people, especially children, overcome challenging situations. Among my projects are Special type, **Diaconia**, **Motoemotions**, **Sunny Circle**, **We Care** (https://wecarefondation.com/), and others. If there's an opportunity to make the world a bit better, I am confident that it should be seized!
+An essential part of my life is volunteering because I believe it's crucial not only to take but also to give back. That's why I became an IT volunteer, actively participating as a frontend developer in projects that aim to help people, especially children, overcome challenging situations. Among my projects are Special type, **Diaconia**, **Motoemotions**, **Sunny Circle**, [**We Care**] (https://wecarefondation.com/), and others. If there's an opportunity to make the world a bit better, I am confident that it should be seized!
 
 ## My technology stack 🤺  
 
