@@ -12,7 +12,10 @@ I live my life guided by the remarkable words of Steve Jobs ([the Stanford comme
 
 No matter how old you are or what you do, always remain ambitious, curious, and determined. Experiment and challenge conventional wisdom! It’s never too late starting something great! Stay Hungry! Stay Foolish!
 
-  
+## Volunteer activities 🙏
+
+
+
 ## My technology stack 🤺  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
