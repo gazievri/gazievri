@@ -13,7 +13,3 @@ Frontend developer focused on building production React/TypeScript applications.
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FSD](https://img.shields.io/badge/Feature--Sliced_Design-2D2D2D?style=for-the-badge)
-
-## Notes
-
-Active development is conducted in private and corporate repositories. Public projects in this profile are archived training materials, test assignments, and earlier portfolio work.
